@@ -14,3 +14,7 @@
 
 <h1>1.The Tarkine Rainforest,TAS<h1>
 
+<img src="shutterstock_743147461.jpg" width=300 height=250>
+
+<p>The Tarkine rainforest is in Tasmania and it is a national park.It is very lush and lots of green trees and plants.This rainforest is home to more than 60 species of rare,special and sadly,endangered species.Also the world's only insects fossils were found in the Tarkine Rainforest,found in sediments of real origin.<p>
+
