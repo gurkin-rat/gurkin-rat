@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<img src=
+<img src="Screenshot 2024-11-13 120341.png" width=300 height=250>
 
 <h1>Best Places To Visit In Australia</h1>
 
