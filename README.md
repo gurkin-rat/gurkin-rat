@@ -18,3 +18,12 @@
 
 <p>The Tarkine rainforest is in Tasmania and it is a national park.It is very lush and lots of green trees and plants.This rainforest is home to more than 60 species of rare,special and sadly,endangered species.Also the world's only insects fossils were found in the Tarkine Rainforest,found in sediments of real origin.<p>
 
+make me a folio for best places in australia
+Sure! Let's create an engaging folio for the best places in Australia. Here are some top destinations, along with brief descriptions and activities you can enjoy there:
+
+1. Sydney, New South Wales
+Iconic Sights: The Sydney Opera House and Sydney Harbour Bridge
+Activities: Take a walk along the Bondi to Coogee Coastal Walk, visit Taronga Zoo, and enjoy a day at Manly Beach.
+<img src="images/opera house logo.png" alt="logo" width="350" height="350">
+
+
