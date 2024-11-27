@@ -27,7 +27,7 @@ Activities: Take a walk along the Bondi to Coogee Coastal Walk, visit Taronga Zo
 3.The Great Barrier Reef,Queensland
 Snorkeling & Diving: Explore the world's largest coral reef system teeming with marine life.
 Whitsunday Islands: White sandy beaches and crystal-clear waters.
-<img src="images.jpg" width="300" height="200">
+<img src="images.jpg" width="400" height="200">
 
 
 
