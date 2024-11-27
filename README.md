@@ -20,13 +20,14 @@
 
 
 2. Sydney, New South Wales\
-Iconic Sights: The Sydney Opera House and Sydney Harbour Bridge
-Activities: Take a walk along the Bondi to Coogee Coastal Walk, visit Taronga Zoo, and enjoy a day at Manly Beach.
+
+<p>Iconic Sights: The Sydney Opera House and Sydney Harbour Bridge
+Activities: Take a walk along the Bondi to Coogee Coastal Walk, visit Taronga Zoo, and enjoy a day at Manly Beach.</p>
 <img src="opera house logo.jpg" width="400" height="200">
 
 3.The Great Barrier Reef,Queensland
-Snorkeling & Diving: Explore the world's largest coral reef system teeming with marine life.
-Whitsunday Islands: White sandy beaches and crystal-clear waters.
+<p>Snorkeling & Diving: Explore the world's largest coral reef system teeming with marine life.
+Whitsunday Islands: White sandy beaches and crystal-clear waters.</p>
 <img src="images.jpg" width="400" height="200">
 
 
