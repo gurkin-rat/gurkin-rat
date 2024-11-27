@@ -22,7 +22,7 @@
 2. Sydney, New South Wales\
 Iconic Sights: The Sydney Opera House and Sydney Harbour Bridge
 Activities: Take a walk along the Bondi to Coogee Coastal Walk, visit Taronga Zoo, and enjoy a day at Manly Beach.
-<img src="images/opera house logo.jpg" width="350" height="350">
+<img src="opera house logo.jpg" width="350" height="350">
 
 3.The Great Barrier Reef,Queensland
 Snorkeling & Diving: Explore the world's largest coral reef system teeming with marine life.
