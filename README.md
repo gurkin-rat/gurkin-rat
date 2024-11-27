@@ -24,6 +24,6 @@ Sure! Let's create an engaging folio for the best places in Australia. Here are 
 1. Sydney, New South Wales
 Iconic Sights: The Sydney Opera House and Sydney Harbour Bridge
 Activities: Take a walk along the Bondi to Coogee Coastal Walk, visit Taronga Zoo, and enjoy a day at Manly Beach.
-<img src="images/opera house logo.png" alt="logo" width="350" height="350">
+<img src="images/opera house logo.jpg" alt="logo" width="350" height="350">
 
 
